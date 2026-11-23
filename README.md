@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="" width="100%">
+  <img src="assets/Syed Raffan Azad.png" alt="" width="100%">
 </p>
-
-<h1 align="center">Syed (Raffan) Azad</h1>
 
 <p align="center"><strong>Financial Analyst at Turtle Sales</strong> · Greater Toronto Area, Canada</p>
 
