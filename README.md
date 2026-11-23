@@ -1,18 +1,38 @@
-# Syed (Raffan) Azad
+<p align="center">
+  <img src="assets/profile-banner.png" alt="" width="100%">
+</p>
 
-**Financial Analyst at Turtle Sales · Economics at Wilfrid Laurier University**
+<h1 align="center">Syed (Raffan) Azad</h1>
 
-I work in financial planning and analysis, supporting budgeting, forecasting, reporting, and performance evaluation. On GitHub, I build Python models to explore what drives company valuations and how those valuations change under different economic scenarios.
+<p align="center"><strong>Financial Analyst at Turtle Sales</strong> · Greater Toronto Area, Canada</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedazad/">Connect on LinkedIn</a>
+  ·
+  <a href="https://github.com/SyedRaffanAzad?tab=repositories">Browse repositories</a>
+</p>
+
+## Financial planning & analysis
+
+At Turtle Sales, I support budgeting, forecasting, financial reporting, and performance analysis. My independent projects use Python to examine how changes in cash flow, growth, and financing costs affect company valuations.
 
 ## Featured project
 
-### [Stochivo](https://github.com/SyedRaffanAzad/stochivo)
+### [Stochivo — Equity Valuation & Economic Risk Analysis](https://github.com/SyedRaffanAzad/stochivo)
 
-A Python and Jupyter Notebook project for equity valuation and macroeconomic risk analysis. It combines discounted cash flow (DCF) modeling, Monte Carlo simulation, and stress testing to explore how changes in assumptions affect valuation.
+An educational Python notebook that estimates equity value per share and lets readers test how that estimate changes under different assumptions.
 
-## Education and professional development
+| Method | What the notebook explores |
+| --- | --- |
+| Discounted cash flow | Estimates value from projected free cash flow and compares growth and discount-rate assumptions. |
+| Monte Carlo simulation | Shows a range of valuations across simulated growth and discount rates. |
+| Scenario analysis and stress testing | Compares outcomes under expansion and recession scenarios and examines how severe shocks affect cash flow. |
 
-- **Honours BA in Economics, minor in Management** · Lazaridis School of Business & Economics, Wilfrid Laurier University
-- **CPA Ontario Post-Secondary Ambassador** · Pursuing the CPA designation
+**Tools** · Python, Jupyter, pandas, NumPy, Matplotlib
 
-[Connect on LinkedIn](https://www.linkedin.com/in/syedazad/) · [Explore my repositories](https://github.com/SyedRaffanAzad?tab=repositories)
+[Explore the project and methodology](https://github.com/SyedRaffanAzad/stochivo)
+
+## Education & professional development
+
+- **Wilfrid Laurier University** · Honours BA in Economics with a minor in Management at the Lazaridis School of Business & Economics
+- **CPA Ontario** · Post-Secondary Ambassador since November 2024, pursuing the CPA designation
